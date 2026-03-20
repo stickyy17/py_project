@@ -1,4 +1,4 @@
-Our project on floight data and following tasks: 
+Our project on flight data and following tasks: 
 
 Step	Task Description		| 	SQL Techniques
 + Data generation
